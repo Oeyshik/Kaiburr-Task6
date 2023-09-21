@@ -10,6 +10,7 @@ This project involves the classification of consumer complaints into specific ca
 - [Installation Setup](#installation-setup)
 - [How to Run](#how-to-run)
 - [How This Project is Made](#how-this-project-is-made)
+- [Screenshots](#screenshots)
 
 ## Project Structure
 The project is structured as follows:
@@ -61,3 +62,14 @@ To make predictions on new consumer complaints, follow the instructions provided
 This project is built using Python and various libraries, including Scikit-Learn for machine learning, Pandas for data manipulation, and Matplotlib for data visualization. The dataset is preprocessed, and text classification models are trained and evaluated. Predictions on new complaints are also demonstrated.
 
 For detailed step-by-step instructions and code, refer to the Jupyter notebooks in the directories.
+
+## Screenshots
+
+### Accuracy
+![App Screenshot](https://drive.google.com/uc?id=1xSaXKHkpkmahzhbUjGZ-XCZuPTqyxwtP)
+
+### Confusion Matrix
+![App Screenshot](https://drive.google.com/uc?id=14X7h7qRorbFy0wTJnE6tIiX0kyLQb9pC)
+
+### Prediction Example
+![App Screenshot](https://drive.google.com/uc?id=1jSf4OcSpCxchJNpCLLxRtDUZy0kSHGMj)
