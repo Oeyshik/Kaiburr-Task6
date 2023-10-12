@@ -1,4 +1,4 @@
-# Kaiburr Task 6: Consumer Complaints Text Classification
+# Consumer Complaints Text Classification
 
 This project involves the classification of consumer complaints into specific categories such as Credit reporting, Debt collection, Consumer Loan, and Mortgage. The goal is to assist in organizing and addressing consumer complaints effectively.
 
